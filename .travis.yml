@@ -23,7 +23,7 @@
 env:
   global:
     - secure: ZpTYbLZt7ZYYvRYkmQFBIToRgjqdW0l4K1IObb7X18wOLBytTmMVFu3Z5MoZEaBMi/R7TMG+WJLHCklGgk4W45Gx0llMxaIRV98nb9mg5eHzg1LxapoJjKlQK0lMBYeou+CP8LGAxZyo+yDNJh4Lo+X4dV5e5/8zjQmfnjYNXhU=
-    - VERSION=10c
+    - VERSION=10d
 language: ruby
 
 # vi: set ts=2 sw=2 expandtab:
